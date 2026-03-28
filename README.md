@@ -28,7 +28,8 @@ Match Score: 78.45%
 Matching Keywords: python, machine, learning, data  
 
 ### Screenshots
-![Resume Start](Screenshot 2026-03-24 014457.png)
+<img width="1066" height="294" alt="image" src="https://github.com/user-attachments/assets/0a950977-86d0-414b-b7d8-98af539a3edc" />
+
 
 ### Files
 - resume_matcher.py → main code
