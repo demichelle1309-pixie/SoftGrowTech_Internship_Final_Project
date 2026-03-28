@@ -1,0 +1,7 @@
+We are looking for a Python developer with experience in machine learning and natural language processing.
+
+The candidate should be skilled in Python, data analysis, and building AI-based applications using libraries such as TensorFlow or scikit-learn.
+
+Responsibilities include developing intelligent systems, working with datasets, and implementing efficient solutions for real-world problems.
+
+Good communication skills and the ability to work in a team are required.

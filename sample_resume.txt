@@ -1,0 +1,9 @@
+Experienced Python developer with a strong background in machine learning and natural language processing. 
+
+Skilled in developing AI models, data analysis, and building applications using Python, TensorFlow, and scikit-learn. 
+
+Worked on multiple projects including sentiment analysis, chatbot development, and resume screening systems. 
+
+Strong problem-solving abilities with experience in handling real-world datasets and implementing efficient solutions. 
+
+Excellent communication and teamwork skills with the ability to collaborate effectively in group projects.
